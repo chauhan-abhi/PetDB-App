@@ -1,3 +1,95 @@
 <?xml version="1.0" encoding="utf-8"?>
-<items version="2" />
+<items version="2" >
 
+    <item
+        is-multidex="true"
+        jar="/home/abhi/.android/build-cache/a589c8cb4095be57d2b10c7ceb863c92004aefb2/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c936c1bd42f0c018c18920c7bec619ef056b24f8">
+        <dex dex="/home/abhi/Downloads/PetDB-App/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7049978a76559c82e63870e544ac4c2398a67aaa/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/abhi/.android/build-cache/b91a50a0cda186b6813073eb37219b511eddf83d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1256c10604bb098490eab070d76754ac5ceab35c">
+        <dex dex="/home/abhi/Downloads/PetDB-App/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_92c2daa270a6e60a06b3f9c927991ecd055e7347/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/abhi/.android/build-cache/3ea7ff138710bb5b14df48c15329bb3af4e10492/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f62e763609f65e47dc6c498760a4accf02776788">
+        <dex dex="/home/abhi/Downloads/PetDB-App/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6a075ce6a7adb8513d35dbcb63f0fbe4ce81d71e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/abhi/Downloads/PetDB-App/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/home/abhi/Downloads/PetDB-App/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_d9e7bedb3344781c2678789b2aa44fd61ae87fff/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/abhi/Downloads/PetDB-App/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4f754179656d4bec8f10d5a9dcb8330209f80c09">
+        <dex dex="/home/abhi/Downloads/PetDB-App/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_66112db5ca8cd7613baebe02ecd53014f0f59b30/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/abhi/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/24.1.1/support-annotations-24.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3af19f153122737b372622fa6c81dd11a1c6b999">
+        <dex dex="/home/abhi/Downloads/PetDB-App/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.1.1_090ae81a51bd3034bd94c93f00dc9feb4cdcbfe3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/abhi/.android/build-cache/ae1b3e7c39ed4700d80969fdece03f55cafa6750/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6d7d803871e3203465f71a163e7af104f807b446">
+        <dex dex="/home/abhi/Downloads/PetDB-App/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2c07911a137567a50c20125a61866beb35a76688/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/abhi/.android/build-cache/ae1b3e7c39ed4700d80969fdece03f55cafa6750/output/jars/libs/internal_impl-24.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f78c2f395cb096f9dc1dc07e729922b8fcd3c4f5">
+        <dex dex="/home/abhi/Downloads/PetDB-App/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.1.1_5b1e150826f26929317c88e3b2cd33a6b9c66ce4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/abhi/.android/build-cache/55abb391e020bfa3b942eb52f6290b30a1a3bb89/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e195bd694d5389acfba27ff4fdfa64c4c65b2c05">
+        <dex dex="/home/abhi/Downloads/PetDB-App/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b4c18797c491e42632820610bac08990b69a7ae3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/abhi/.android/build-cache/7500d2d022ecdd6a2217ead66a42a9014698ecbd/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="787871951412550519b0222aba3c9df4cea49875">
+        <dex dex="/home/abhi/Downloads/PetDB-App/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4f24820ea5ce99beda0ded134ec77cb5f3e63d72/classes.dex" />
+    </item>
+
+</items>
