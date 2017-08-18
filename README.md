@@ -16,8 +16,7 @@ Getting Started
 This sample uses the Gradle build system. To build this project, use the
 "gradlew build" command or use "Import Project" in Android Studio.
 
-Support
--------
 
-- Google+ Community: https://plus.google.com/communities/105153134372062985968
-- Stack Overflow: http://stackoverflow.com/questions/tagged/android
+<img src="https://github.com/chauhan-abhi/PetDB-App/blob/master/screenshots/device-2017-08-18-170347.png" alt="alt text" width="360" height="640">
+
+<img src="https://github.com/chauhan-abhi/PetDB-App/blob/master/screenshots/device-2017-08-18-170433.png" alt="alt text" width="360" height="640">
